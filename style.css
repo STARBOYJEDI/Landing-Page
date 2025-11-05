@@ -28,6 +28,8 @@ body {
 }
 
 .container button {
+    border: none;
+    border-radius: 8px;
     font-size: 18px;
     background-color: #3882f6;
 }
@@ -57,7 +59,13 @@ body {
     font-weight: 700;
 }
 
-
+.blue-box button {
+    border: none;
+    border-radius: 4px;
+    font-size: 18px;
+    background-color: #3882f6;
+    color: white;
+}
 
 
 
